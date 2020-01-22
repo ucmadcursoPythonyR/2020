@@ -9,10 +9,11 @@ Repositorio con el material del curso exprés de R y Python ofrecido por la Univ
 ## Contenido
 
 1. **Preliminares**
-    1. Instalación Anaconda, R y R-Studio
-    2. Alternativas Online
-    3. Escritura en Markdown
-    4. Introducción a Algoritmos
+    1. Instalación Anaconda
+    2. Instalación de R y R-Studio
+    3. Alternativas Online
+    4. Escritura en Markdown
+    5. Introducción a Algoritmos
   
 2. **Cálculos simples**
     1. Tipos de datos
