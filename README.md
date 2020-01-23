@@ -14,6 +14,7 @@ Repositorio con el material del curso exprés de R y Python ofrecido por la Univ
     3. [Alternativas Online](Cuadernos/Alternativas%20Online.ipynb)
     4. [Escritura en Markdown](https://daringfireball.net/projects/markdown/)
     5. Introducción a Algoritmos
+    6. [Ambientes de Trabajo](Cuadernos/Ambientes.ipynb)
   
 2. **Cálculos simples**
     1. Tipos de datos
