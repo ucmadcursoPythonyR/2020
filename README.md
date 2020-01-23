@@ -17,12 +17,12 @@ Repositorio con el material del curso exprés de R y Python ofrecido por la Univ
     6. [Ambientes de Trabajo](Cuadernos/Ambientes.ipynb)
     7. [Instalación de Kernels](Cuadernos/Instalando%20Kernels.ipynb)
   
-2. **Cálculos simples**
+2. **Cálculos simples** [[En Python]](Cuadernos/Introducción%20a%20Python.ipynb)  [[En R]](/Cuadernos/Tipos_Datos_R.ipynb)
     1. Tipos de datos 
     2. Operaciones básicas
     3. Listas y matrices
     4. Operaciones entre matrices
-     [En Python](Cuadernos/Introducción%20a%20Python.ipynb)  [En R](/Cuadernos/Tipos_Datos_R.ipynb)
+     
 3. **Administración de rutas, carga de datos e instalación de paquetes**	
     1. Instalación y carga de paquetes
     2. Espacio de trabajo
