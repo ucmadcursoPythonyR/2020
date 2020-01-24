@@ -24,7 +24,7 @@ Repositorio con el material del curso exprés de R y Python ofrecido por la Univ
     4. Operaciones entre matrices
      
 3. **Administración de rutas, carga de datos e instalación de paquetes**	
-    1. Instalación y carga de paquetes
+    1. [Instalación y carga de paquetes](Cuadernos/Paquetes.ipynb)
     2. Espacio de trabajo
     3. Bases de datos predeterminadas
     4. Carga de datos físicos
