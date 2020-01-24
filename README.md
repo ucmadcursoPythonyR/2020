@@ -25,7 +25,7 @@ Repositorio con el material del curso exprés de R y Python ofrecido por la Univ
      
 3. **Administración de rutas, carga de datos e instalación de paquetes**	
     1. [Instalación y carga de paquetes](Cuadernos/Paquetes.ipynb)
-    2. Espacio de trabajo
+    2. [Espacio de trabajo](Cuadernos/Espacio%20de%20Trabajo.ipynb)
     3. Bases de datos predeterminadas
     4. Carga de datos físicos
     5. Carga de datos online
