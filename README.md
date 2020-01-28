@@ -42,7 +42,7 @@ Repositorio con el material del curso exprés de R y Python ofrecido por la Univ
     3. Creación de funciones
     
 6.	**Visualización con Python**
-    1. Introducción a estadística descriptiva[R](Cuadernos/R_E_Descriptiva.ipynb)
+    1. Introducción a estadística descriptiva [[R]](Cuadernos/R_E_Descriptivas.ipynb)
     2. [Pandas](Cuadernos/Intro_Pandas.ipynb)
     3. Matplotlib
     4. Seaborn
