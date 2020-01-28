@@ -43,7 +43,7 @@ Repositorio con el material del curso exprés de R y Python ofrecido por la Univ
     
 6.	**Visualización con Python**
     1. Introducción a estadística descriptiva
-    2. Pandas
+    2. [Pandas](Cuadernos/Intro_Pandas.ipynb)
     3. Matplotlib
     4. Seaborn
     
