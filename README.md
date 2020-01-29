@@ -36,7 +36,7 @@ Repositorio con el material del curso exprés de R y Python ofrecido por la Univ
     2. Ciclos
     3. Casos y conmutadores
     
-5. **Funciones**
+5. **Funciones** [[Python]](Cuadernos/Funciones.ipynb)
     1. Funciones de programación: parámetros y variables
     2. Documentación
     3. Creación de funciones
