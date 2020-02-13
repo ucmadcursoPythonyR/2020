@@ -15,7 +15,7 @@ Repositorio con el material del curso exprés de R y Python ofrecido por la Univ
     4. [Escritura en Markdown](https://daringfireball.net/projects/markdown/)
     5. Introducción a Algoritmos
     6. [Ambientes de Trabajo](Cuadernos/Ambientes.ipynb)
-    7. [Instalación de Kernels](Cuadernos/Instalando%20Kernels.ipynb)
+    7. [Instalación de Kernels](Cuadernos/Instalando_Kernels.ipynb)
   
 2. **Cálculos simples** [[En Python]](Cuadernos/Introducción%20a%20Python.ipynb)  [[En R]](/Cuadernos/Tipos_Datos_R.ipynb)
     1. Tipos de datos 
